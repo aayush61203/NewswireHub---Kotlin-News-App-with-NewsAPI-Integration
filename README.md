@@ -4,6 +4,8 @@
 ![Language](https://img.shields.io/badge/Language-Kotlin-blueviolet?style=flat-square&logo=kotlin)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![API](https://img.shields.io/badge/API-NewsAPI.org-orange?style=flat-square)
+![Language](https://img.shields.io/badge/Kotlin-100%25-purple?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-blue?style=for-the-badge)
 
 An elegant **Android News App** built in **Kotlin**, powered by [NewsAPI.org](https://newsapi.org).  
 It fetches real-time news, allowing users to filter by **Country** and **Category**.  
