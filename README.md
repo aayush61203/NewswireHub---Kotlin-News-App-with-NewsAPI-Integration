@@ -37,7 +37,7 @@ Smooth **sharing**, **viewing**, and **navigation** experience!
 
 ## 📲 Download the APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/aayush61203/NewswireHub/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/aayush61203/NewswireHub---Kotlin-News-App-with-NewsAPI-Integration/releases/download/v1.0/base.apk)
 
 > **Note:** APK is available in the [Releases Section](https://github.com/aayush61203/NewswireHub/releases).
 
@@ -45,7 +45,7 @@ Smooth **sharing**, **viewing**, and **navigation** experience!
 
 ## 🚀 How to Use the APK (Normal User Guide)
 
-1. **Click** on the [Download APK](https://github.com/aayush61203/NewswireHub/releases/latest) button.
+1. **Click** on the [Download APK](https://github.com/aayush61203/NewswireHub---Kotlin-News-App-with-NewsAPI-Integration/releases/download/v1.0/base.apk) button.
 2. **Install** the APK on your Android device.
    - If prompted, allow installation from unknown sources.
 3. **Open** the app.
