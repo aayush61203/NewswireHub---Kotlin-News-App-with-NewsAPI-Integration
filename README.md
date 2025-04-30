@@ -1,23 +1,6 @@
-<h1 align="center">📰 NewswireHub</h1>
-
 <p align="center">
-  <b>A Kotlin-powered Android News App using <a href="https://newsapi.org/">NewsAPI</a></b><br>
-  Filter news by <strong>Country</strong> & <strong>Category</strong> | Share with custom messages | Clean UI/UX
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=NewswireHub%20-%20Kotlin%20News%20App&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="NewswireHub Banner"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/aayush61203/NewswireHub---Kotlin-News-App-with-NewsAPI-Integration?color=violet&style=for-the-badge" alt="Top Language" />
-  <img src="https://img.shields.io/github/repo-size/aayush61203/NewswireHub---Kotlin-News-App-with-NewsAPI-Integration?color=blue&style=for-the-badge" alt="Repo Size" />
-  <img src="https://img.shields.io/github/last-commit/aayush61203/NewswireHub---Kotlin-News-App-with-NewsAPI-Integration?color=green&style=for-the-badge" alt="Last Commit" />
-  <img src="https://img.shields.io/github/issues/aayush61203/NewswireHub---Kotlin-News-App-with-NewsAPI-Integration?color=orange&style=for-the-badge" alt="Issues" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/aayush61203/NewswireHub---Kotlin-News-App-with-NewsAPI-Integration/releases/latest">
-    <img src="https://img.shields.io/badge/⬇️ Download-APK-blue?style=for-the-badge" alt="Download APK" />
-  </a>
-</p>
-
 
 # 📰 NewswireHub
 
