@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=NewswireHub%20-%20Kotlin%20News%20App&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="NewswireHub Banner"/>
-</p>
-
 # 📰 NewswireHub
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android)
