@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/_16sdp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        style="@style/base_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/_55sdp"
+        android:text="@string/ttl_login" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/edtEmail"
+        style="@style/base_edt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvTitle"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:hint="@string/hint_email"
+        android:imeOptions="actionNext"
+        android:inputType="textWebEmailAddress">
+
+        <requestFocus />
+    </androidx.appcompat.widget.AppCompatEditText>
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/edtPassword"
+        style="@style/base_edt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edtEmail"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:hint="@string/hint_password"
+        android:imeOptions="actionNext"
+        android:inputType="textWebPassword" />
+
+    <TextView
+        android:id="@+id/tvForgot"
+        style="@style/base_title_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edtPassword"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:text="@string/que_forgot_password" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ttl_login"
+        android:layout_below="@id/tvForgot"
+        android:layout_marginTop="@dimen/_15sdp"
+        style="@style/base_title_tv"
+        android:textSize="@dimen/_16ssp"
+        android:padding="@dimen/_10sdp"
+        android:layout_marginHorizontal="@dimen/_15sdp"
+        android:textAllCaps="false"/>
+
+    <TextView
+        android:id="@+id/tvSignup"
+        style="@style/base_title_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:text="Dont have Account? Register" />
+
+
+</RelativeLayout>

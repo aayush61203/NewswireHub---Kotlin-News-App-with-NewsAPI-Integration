@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">News-wire Hub</string>
+    <string name="news_description">news_description</string>
+    <string name="category">General</string>
+    <string name="textview">TextView</string>
+    <string name="head_name">News-wire Hub</string>
+    <string name="head2">Countries</string>
+    <string name="head3">Categories</string>
+    <string name="country">India</string>
+    <string-array name="categories">
+        <item>General</item>
+        <item>Entertainment</item>
+        <item>Business</item>
+        <item>Health</item>
+        <item>Technology</item>
+        <item>Science</item>
+        <item>Sports</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>India</item>
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <item>Canada</item>
+        <item>Australia</item>
+        <item>Japan</item>
+    </string-array>
+    <string-array name="country_codes">
+        <item>in</item> <!-- India -->
+        <item>us</item> <!-- United States -->
+        <item>gb</item> <!-- United Kingdom -->
+        <item>ca</item> <!-- Canada -->
+        <item>au</item> <!-- Australia -->
+        <!--            <item>de</item> &lt;!&ndash; Germany &ndash;&gt;-->
+        <!--            <item>fr</item> &lt;!&ndash; France &ndash;&gt;-->
+        <item>jp</item> <!-- Japan -->
+        <!--            <item>br</item> &lt;!&ndash; Brazil &ndash;&gt;-->
+        <!--            <item>za</item> &lt;!&ndash; South Africa &ndash;&gt;-->
+    </string-array>
+    <string name="ttl_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="que_forgot_password">Password</string>
+    <string name="btn_submit">Submit</string>
+
+</resources>
