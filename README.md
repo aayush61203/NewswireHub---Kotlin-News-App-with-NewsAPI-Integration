@@ -71,7 +71,7 @@ Enjoy seamless, personalized news updates! 📱
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/aayush61203/NewswireHub.git
+   git clone https://github.com/aayush61203/NewswireHub---Kotlin-News-App-with-NewsAPI-Integration.git
    ```
 2. Open the project in Android Studio.
 
